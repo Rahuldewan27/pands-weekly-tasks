@@ -14,6 +14,9 @@ if day_of_week < 5:
 else:
     print("It is the weekend, yay!")
 #Anything else print this output
+    
+#References: https://pynative.com/python-get-the-day-of-week/
+#https://www.w3schools.com/python/python_datetime.asp
 
 
 

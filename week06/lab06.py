@@ -38,7 +38,6 @@ def doView(students):
         displaymodule(currentStudent["modules"])
 
 
-
 #main program
 
 students = []
