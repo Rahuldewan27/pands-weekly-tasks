@@ -20,7 +20,7 @@ n = float(input("Please enter a positive number: "))
 print(f"The square root of {n} is approx. {sqrt(n)}.")
 
 #References :
-#https://www.geeksforgeeks.org/round-function-python/
-#https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
-#https://www.w3schools.com/python/python_functions.asp
-#https://stackoverflow.com/questions/28733759/python-square-function-using-newtons-algorithm
+#1. GeeksforGeeks. (n.d.). Python round() function.[https://www.geeksforgeeks.org/round-function-python/](https://www.geeksforgeeks.org/round-function-python/)
+#2. GeeksforGeeks. (n.d.). Find root of a number using Newton’s method.[https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/](https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/)
+#3. w3schools. (n.d.). Python Functions.[https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp)
+#4. Stack Overflow. (n.d.). Python square function using Newton's algorithm.[https://stackoverflow.com/questions/28733759/python-square-function-using-newtons-algorithm](https://stackoverflow.com/questions/28733759/python-square-function-using-newtons-algorithm)

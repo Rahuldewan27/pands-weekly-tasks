@@ -15,8 +15,7 @@ else:
     print("It is the weekend, yay!")
 #Anything else print this output
     
-#References: https://pynative.com/python-get-the-day-of-week/
-#https://www.w3schools.com/python/python_datetime.asp
-
-
+#References: 
+#1. pynative. (n.d.). Python - Get the Day of Week.[https://pynative.com/python-get-the-day-of-week/](https://pynative.com/python-get-the-day-of-week/)
+#2. w3schools. (n.d.). Python DateTime.[https://www.w3schools.com/python/python_datetime.asp](https://www.w3schools.com/python/python_datetime.asp)
 

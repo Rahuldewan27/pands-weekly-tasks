@@ -34,11 +34,11 @@ else:
 count_e(filename)
 
 # References:
-# https://www.w3schools.com/python/python_file_handling.asp
-# https://www.geeksforgeeks.org/python-os-path-isfile-method/
-# https://www.geeksforgeeks.org/python-string-count/
-# https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
-# https://docs.python.org/3/library/sys.html#sys.argv
+#1. w3schools. (n.d.). Python File Handling.[https://www.w3schools.com/python/python_file_handling.asp](https://www.w3schools.com/python/python_file_handling.asp)
+#2. GeeksforGeeks. (n.d.). Python os.path.isfile() method.[https://www.geeksforgeeks.org/python-os-path-isfile-method/](https://www.geeksforgeeks.org/python-os-path-isfile-method/)
+#3. GeeksforGeeks. (n.d.). Python string count().[https://www.geeksforgeeks.org/python-string-count/](https://www.geeksforgeeks.org/python-string-count/)
+#4. Python Software Foundation. (n.d.). Reading and Writing Files.[https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+#5. Python Software Foundation. (n.d.). sys.argv.[https://docs.python.org/3/library/sys.html#sys.argv](https://docs.python.org/3/library/sys.html#sys.argv)
 
 
 

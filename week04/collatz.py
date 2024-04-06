@@ -27,5 +27,5 @@ for value in col_lst: #print the Collatz sequence
     print(value, end = " ") #print the Collatz sequence in a single line
 
 # References : 
-# 1. https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
-# 2. https://codereview.stackexchange.com/questions/285429/automate-the-boring-stuff-with-python-the-collatz-sequence
+#1. Stack Overflow. (n.d.). Making a Collatz program - Automate the Boring Stuff.[https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff](https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff)
+#2. Code Review Stack Exchange. (n.d.). Automate the Boring Stuff with Python: The Collatz Sequence.[https://codereview.stackexchange.com/questions/285429/automate-the-boring-stuff-with-python-the-collatz-sequence](https://codereview.stackexchange.com/questions/285429/automate-the-boring-stuff-with-python-the-collatz-sequence)

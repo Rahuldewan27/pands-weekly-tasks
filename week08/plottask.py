@@ -36,7 +36,7 @@ plt.show()
 
 
 # References:
-#1. https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-#2. https://www.w3schools.com/python/matplotlib_pyplot.asp
-#3. https://www.w3schools.com/python/matplotlib_histograms.asp
-#4. https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+#1. NumPy. (n.d.). numpy.random.normal. [https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html)
+#2. w3schools. (n.d.). Python Matplotlib pyplot. [https://www.w3schools.com/python/matplotlib_pyplot.asp](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+#3. w3schools. (n.d.). Python Matplotlib Histograms. [https://www.w3schools.com/python/matplotlib_histograms.asp](https://www.w3schools.com/python/matplotlib_histograms.asp)
+#4. NumPy. (n.d.). numpy.linspace. [https://numpy.org/doc/stable/reference/generated/numpy.linspace.html](https://numpy.org/doc/stable/reference/generated/numpy.linspace.html)

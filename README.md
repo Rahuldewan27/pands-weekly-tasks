@@ -8,6 +8,5 @@ References and commenting are available in each python file
 
 Referencing can be found at bottom of each python file where applicable.
 
-Week09 has no tasks due hence empty
-
+Week09 has no tasks due hence does not exist.
 

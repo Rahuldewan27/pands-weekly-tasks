@@ -21,5 +21,5 @@ print("X"*cut_length_bankaccount+cut_bank_account)
 # assumption: if the length of the bank account is 4 or less it will only return the exact value back
 
 #reference :
-# https://www.w3schools.com/python/gloss_python_string_slice.asp
-# https://www.w3schools.com/python/gloss_python_string_length.asp
+#1. w3schools. (n.d.). Python - String slicing.[https://www.w3schools.com/python/gloss_python_string_slice.asp](https://www.w3schools.com/python/gloss_python_string_slice.asp)
+#2. w3schools. (n.d.). Python - String length.[https://www.w3schools.com/python/gloss_python_string_length.asp](https://www.w3schools.com/python/gloss_python_string_length.asp)
